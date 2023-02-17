@@ -1,6 +1,4 @@
-# module2
-
-# <Module 2>
+Module 2
 
 ## Description
 
@@ -19,6 +17,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 Screen shot of deployed webpage.
 ![image](https://user-images.githubusercontent.com/123092979/219506246-46947aa5-417d-4aff-b5d7-efe719fda865.png)
 
+Screen shot of responsive screen
+![image](https://user-images.githubusercontent.com/123092979/219534869-d1baa032-b6b6-42df-89f3-263af58baa45.png)
 
 ## Credits
 
