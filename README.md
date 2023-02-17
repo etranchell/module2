@@ -9,9 +9,6 @@ The problem it solves is helping employers find a qualified canidate, me.
 I learned that I know very little coding.  That coding takes time, practice. I learned that you have to deal with frustration, and keep at it.
 
 
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 Link to deployed application
