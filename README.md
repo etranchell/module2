@@ -9,16 +9,17 @@ The problem it solves is helping employers find a qualified canidate, me.
 I learned that I know very little coding.  That coding takes time, practice. I learned that you have to deal with frustration, and keep at it.
 
 
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
+
+Link to deployed application
+https://etranchell.github.io/module2/
 
 Screen shot of deployed webpage.
 ![image](https://user-images.githubusercontent.com/123092979/219506246-46947aa5-417d-4aff-b5d7-efe719fda865.png)
 
 Screen shot of responsive screen
 ![image](https://user-images.githubusercontent.com/123092979/219534869-d1baa032-b6b6-42df-89f3-263af58baa45.png)
+
 
 ## Credits
 
